@@ -1,0 +1,23 @@
+{
+  "name": "database-hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubaMansour/Database-hack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubaMansour/Database-hack/issues"
+  },
+  "homepage": "https://github.com/RubaMansour/Database-hack#readme",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
